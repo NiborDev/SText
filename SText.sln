@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SText", "SText\SText.vbproj", "{9B689EBB-F0BC-43B2-869D-0928087932BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B689EBB-F0BC-43B2-869D-0928087932BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B689EBB-F0BC-43B2-869D-0928087932BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B689EBB-F0BC-43B2-869D-0928087932BA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9B689EBB-F0BC-43B2-869D-0928087932BA}.Debug|x86.Build.0 = Debug|Any CPU
+		{9B689EBB-F0BC-43B2-869D-0928087932BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B689EBB-F0BC-43B2-869D-0928087932BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B689EBB-F0BC-43B2-869D-0928087932BA}.Release|x86.ActiveCfg = Release|Any CPU
+		{9B689EBB-F0BC-43B2-869D-0928087932BA}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1243F65-4444-43C3-8C0A-1584D6A19C74}
+	EndGlobalSection
+EndGlobal
